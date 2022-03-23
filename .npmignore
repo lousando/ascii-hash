@@ -1,0 +1,10 @@
+# idea
+.idea
+
+# tests
+jest.config.js
+test
+coverage
+
+# test packages
+*.tgz
