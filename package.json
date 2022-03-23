@@ -1,0 +1,21 @@
+{
+  "name": "ascii-hash",
+  "version": "1.0.0",
+  "description": "Fast and naive non-cryptographic hash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "rapid",
+    "hash",
+    "fast",
+    "easy",
+    "quick"
+  ],
+  "author": "Louis Sandoval",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
